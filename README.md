@@ -10,10 +10,6 @@ The challenge was to build out an order summary card component and make it look 
 
 - See hover states for interactive elements.
 
-### Screenshot
-
-![Order Summary Card Screenshot](./images/screenshot.jpg)
-
 ### Built With
 
 - Semantic HTML5 markup
