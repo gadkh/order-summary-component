@@ -1,0 +1,17 @@
+# Ignore any OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+
+# Ignore any build directories (if any)
+dist/
+build/
+
+# Ignore IDE-specific settings
+.idea/
+.vscode/
+
+# Optional npm cache directory (if using any npm scripts)
+.npm/
